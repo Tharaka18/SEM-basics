@@ -1,1 +1,1 @@
-SEM basics (introduction to "sem" and "psem" funcions) 
+SEM basics (introduction to "sem" and "psem" functions) 
